@@ -1,0 +1,33 @@
+_repo: Poems-of-Coleridge_8208
+contributor:
+  creator:
+    editor:
+      agent_name: Symons, Arthur
+      birthdate: 1865
+      deathdate: 1945
+      gutenberg_agent_id: '347'
+      url: http://www.gutenberg.org/2009/agents/347
+      wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: Poems of Coleridge
+url: http://www.gutenberg.org/ebooks/8208
